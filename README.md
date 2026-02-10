@@ -152,6 +152,17 @@ Escolha uma licença para seu repositório (ex.: MIT).
 
 ---
 
+## ▶️ Executar no Google Colab
+
+Você pode testar o projeto diretamente no Google Colab, sem precisar instalar nada localmente:
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pQMCV-eFvuL5CfU-O21slfs6cUyZXAM2?usp=sharing)
+
+Ou acesse pelo link:
+https://colab.research.google.com/drive/1pQMCV-eFvuL5CfU-O21slfs6cUyZXAM2?usp=sharing
+
+---
+
 ## ✨ Créditos
 
 * [OpenAI Whisper](https://github.com/openai/whisper)
